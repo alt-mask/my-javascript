@@ -1,0 +1,18 @@
+# For initializing the folder as a git folder
+git init
+
+# For adding files to be staged for commit
+git add 'file-name'
+
+# For checking the status of files being staged for commit
+git status
+
+# For commit files that are staged
+git commit -m 'Commit message'
+
+# For pushing files to remote repository
+git push
+
+# For cloning a remote repository
+git clone
+
